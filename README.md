@@ -1,5 +1,3 @@
-## About
-
 |key|value|
 |---|-----|
 |![](http://www.google.com/s2/favicons?domain=huggingface.co)HuggingFace|[https://huggingface.co/alrab222](https://huggingface.co/alrab222)|
